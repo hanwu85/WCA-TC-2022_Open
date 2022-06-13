@@ -438,11 +438,11 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-B><blindfolded><blindfoldedsolving> 附則 B：盲解
 
-- B1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下（部分內容由[規則 Y7](regulations:regulation:Y7)取代）：
+- B1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下：
     - B1a) 沒有觀察階段。
     - B1b) 參賽者需自備眼罩。
 - B2) 開始還原：
-    - B2a) 裁判將計時器和/或碼錶歸零並根據[規則 A3b1](regulations:regulation:A3b1)並示意裁判已準備等待參賽者開始還原（例如：將遮蔽住的方塊擺放到參賽者前面並說「準備好了(Ready)」，並同時豎起大拇指）。參賽者必須在雙方示意完成後的1分鐘內開始還原，否則參賽者失去此次還原機會（DNS），由裁判決定（部分內容由[規則 Y7d1](regulations:regulation:Y7d1)取代）。
+    - B2a) 裁判將計時器和/或碼錶歸零並根據[規則 A3b1](regulations:regulation:A3b1)並示意裁判已準備等待參賽者開始還原（例如：將遮蔽住的方塊擺放到參賽者前面並說「準備好了(Ready)」，並同時豎起大拇指）。參賽者必須在雙方示意完成後的1分鐘內開始還原，否則參賽者失去此次還原機會（DNS），由裁判決定。
     - B2b) 參賽者用手指碰觸計時器感應區。參賽者的掌心必須向下，並在靠近參賽者那一側的計時器側邊。處罰：加罰時間（+2秒）。
     - B2c) 在每一次還原開始之前，參賽者不能碰觸方塊或是蓋子。處罰：加罰時間（+2秒）。
     - B2d) 開始的方式為參賽者把雙手移開計時器（同時開始計時）。
@@ -516,7 +516,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> 附則 H：多顆盲解
 
-- H1) 標準盲解流程如同[附則 B](regulations:article:B)（盲解）。相異且優先於[附則 B](regulations:article:B)的流程如下（部分內容由[規則 Y7](regulations:regulation:Y7)取代）：
+- H1) 標準盲解流程如同[附則 B](regulations:article:B)（盲解）。相異且優先於[附則 B](regulations:article:B)的流程如下：
     - H1a) 參賽者必須要在每一次還原開始前提交主辦團隊這一次還原盲解方塊的顆數（至少兩顆）。
         - H1a1) 當參賽者提交主辦團隊要還原的方塊顆數後，就不允許改變方塊顆數。
         - H1a2) 參賽者可以要求將還原的方塊顆數保密，直到所有參賽者都提交顆數完畢。一旦所有參賽者皆告知了方塊顆數，則資訊即可公開（例如：參賽者可以在開始還原之前詢問其他參賽者的方塊顆數）。
@@ -526,31 +526,3 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - H1d) 方塊的加時處罰是累積制的。
     - H1e) 在記憶階段時，參賽者禁止轉動任何方塊。處罰：判定該次還原未完成（DNF）。例外：在還原結束後各別轉動到的單一方塊，可以判定為該顆方塊還原未完成，而不是判定為該次的整個還原未完成，由WCA代表決定
 - H2) 參賽者可以自行準備覆蓋物（例如：墊子或布）鋪在桌面上，由WCA代表決定。如果參賽者使用覆蓋物，必須要在提交還原盲解方塊的顆數時一併提出。（參見[附則 H1a](regulations:regulation:H1a)）
-
-
-## <article-Y><temporary-regulations><temporaryregulations> 附則 Y：臨時規則
-
-- Y1) 額外且取代其他規則的部分描述在以下內容。這些規則是用來補充[比賽安全政策](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)。
-- Y2) 定義：
-    - Y2a) 參加者：所有參加WCA比賽的人員，包含參賽者，工作人員，以及陪同者。
-    - Y2b) 固定座位：在同一輪中，參賽者必須在同一個位置上，完成該輪所有還原的一種比賽方式。
-- Y3) 除了[規則 2a](regulations:regulation:2a)所要求以外，如果WCA代表覺得有需要，並且在比賽前清楚公布，參加者可以被要求要符合以下一個或多個條件：
-    - Y3a) 在比賽場館內配戴口罩。
-    - Y3b) 比賽前14天內沒有和新冠肺炎（COVID-19）患者有接觸。
-    - Y3c) 比賽前14天內沒有患上新冠肺炎（COVID-19），或是出現新冠肺炎（COVID-19）症狀（由[WHO世界衛生組織](https://www.who.int/)所定義）。
-    - Y3d) 遵守其他由WHO世界衛生組織或是當地政府所認可的合理安全措施。
-- Y4) 比賽的所有參賽者和工作人員應該要攜帶自己的筆。
-- Y5) 裁判可以攜帶自己的碼表或是手機來計時觀察時間，自己攜帶的裝置應該要讓WCA代表檢查。
-- Y6) 環境：
-    - Y6a) 如果WCA代表認為有需要，比賽區域禁止有參賽者預備區。
-    - Y6b) 當參賽者不是在正式還原時，參賽者應該盡量避免碰觸還原區域的桌面。
-- Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。這些程序不適用 [附則 E](regulations:article:E)最少步數解。
-    - Y7a) 比賽應該使用固定座位。（參見[附則 Y2b](regulations:regulation:Y2b)）
-    - Y7b) 裁判應該無時無刻避免碰觸方塊。例外：對於Clock魔錶，裁判應該要拿起來確認兩面都已經解完。
-    - Y7c) 轉亂：
-        - Y7c1) 當在該輪被叫到名字時，參賽者將解好的方塊消毒後交給轉亂員。接著參賽者在指定的還原區域等待。
-    - Y7d) 觀察：
-        - Y7d1) 如果必要，裁判請參賽者開啟計時器並歸零來讓計時器準備妥當。如果必要，參賽者開啟計時器並歸零。裁判應該無時無刻避免碰觸計時器。
-    - Y7e) 成績記錄：
-        - Y7e2) 參賽者不應該碰觸成績單。
-    - Y7f) 如果結束的還原並非該輪最後一次還原，參賽者必須將方塊放進蓋子。
